@@ -8,3 +8,7 @@ Skill Level Hourly Pay Rate (In Rupees)
 1            170
 2            200
 3            450
+
+Each factory worker might work any number of hours per week; any hours over 40 are
+paid at one and a half times the usual rate. In addition, workers in skill levels 2 and 3 can
+select the following insurance option
