@@ -26,8 +26,14 @@ wherever possible, to enhance your code.
 Input: It takes input data of given number of employees. The program prompts the user
 for skill level and hours worked, as well as appropriate insurance options for the
 employee’s skill level category.
-Output: The applet displays: (1) the hours worked, (2) the hourly pay rate, (3) the
-regular pay for 40 hours, (4) the overtime pay, (5) the total of regular and overtime pay,
-and (6) the total itemized deductions. If the deductions exceed the gross pay, display an
-error message; otherwise, calculate and display (7) the net pay after all the deductions
-have been subtracted from the gross for all input employees.
+
+Output: The applet displays: 
+(1) the hours worked.
+(2) the hourly pay rate.
+(3) the regular pay for 40 hours.
+(4) the overtime pay.
+(5) the total of regular and overtime pay.
+(6) the total itemized deductions. If the deductions exceed the gross pay, display an
+    error message; otherwise, calculate and display .
+(7) the net pay after all the deductions
+    have been subtracted from the gross for all input employees.
